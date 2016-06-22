@@ -1,0 +1,29 @@
+
+This is an application to perform addition/subtraction operations on Roman Numerals.
+
+Input1: First Roman Numeral	(String)
+Input2: Second Roman Numeral	(String)
+Input3: Operator "+" or "-"	(String)
+
+
+Output: Roman Numeral		(String)
+	which is 
+	addition 	(if Input3 == "+") or 
+	subtraction 	(if Input3 == "-")
+	of Input1 and Input2
+
+
+
+Algorithm:
+	
+> Convert Input1 and Input2 Roman Numerals to Integers: 
+  Functions: 
+	romanToInt()
+> Depending on Input3, perform addition or subtraction on the Input1 and Input2 (integers):
+  Functions:
+	subtract()
+	addition()
+> Convert result of operation addition/ subtraction to Roman Numeral:
+  Functions:
+	intToRoman()
+ 
