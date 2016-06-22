@@ -1,0 +1,1 @@
+/usr/bin/cc  -g    CMakeFiles/checkRomanNum.dir/checkRomanNum.c.o  -o checkRomanNum -rdynamic ../src/libromanNumeralCalc.a -lcheck 

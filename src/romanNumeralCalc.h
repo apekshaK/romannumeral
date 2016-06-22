@@ -1,4 +1,10 @@
-#ifndef ROMANNUMERALCALC_H
-#define ROMANNUMERALCALC_H
+#ifndef ROMAN_NUMERAL_CALC_H
+#define ROMAN_NUMERAL_CALC_H
 
-#endif /* ROMANNUMERALCALC_H */
+extern const int INVALID_INPUT;
+
+int singleRomanToInt(const char RomanNum);
+
+
+#endif
+                  

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akumavat/Desktop/Ford/romanNumeralCalc/src/main.c
+romanNumeralCalc.h
+/home/akumavat/Desktop/Ford/romanNumeralCalc/src/romanNumeralCalc.h
+
+/home/akumavat/Desktop/Ford/romanNumeralCalc/src/romanNumeralCalc.h
+

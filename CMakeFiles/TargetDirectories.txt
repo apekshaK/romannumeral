@@ -1,0 +1,3 @@
+/home/akumavat/Desktop/Ford/romanNumeralCalc/tests/CMakeFiles/checkRomanNum.dir
+/home/akumavat/Desktop/Ford/romanNumeralCalc/src/CMakeFiles/main.dir
+/home/akumavat/Desktop/Ford/romanNumeralCalc/src/CMakeFiles/romanNumeralCalc.dir

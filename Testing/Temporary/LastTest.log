@@ -1,0 +1,22 @@
+Start testing: Jun 21 22:57 EDT
+----------------------------------------------------------
+1/1 Testing: checkRomanNum
+1/1 Test: checkRomanNum
+Command: "/home/akumavat/Desktop/Ford/romanNumeralCalc/tests/checkRomanNum"
+Directory: /home/akumavat/Desktop/Ford/romanNumeralCalc
+"checkRomanNum" start time: Jun 21 22:57 EDT
+Output:
+----------------------------------------------------------
+Running suite(s): RomanNumeralCalc
+100%: Checks: 2, Failures: 0, Errors: 0
+/home/akumavat/Desktop/Ford/romanNumeralCalc/tests/checkRomanNum.c:9:P:Core:test_nothing:0: Passed
+/home/akumavat/Desktop/Ford/romanNumeralCalc/tests/checkRomanNum.c:23:P:Core:test_singleRomanToInt:0: Passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"checkRomanNum" end time: Jun 21 22:57 EDT
+"checkRomanNum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 21 22:57 EDT
