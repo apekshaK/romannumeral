@@ -15,7 +15,7 @@ START_TEST(test_singleRomanToInt)
 {
     ck_assert_int_eq(	singleRomanToInt('I'), 1);
     ck_assert_int_eq(	singleRomanToInt('V'), 5);
-    ck_assert_int_eq(	singleRomanToInt('X'), 10);
+    ck_assert_int_eq(	singleRomanToInt('X'), 20);
     ck_assert_int_eq(	singleRomanToInt('L'), 50);
     ck_assert_int_eq(	singleRomanToInt('C'), 100);
     ck_assert_int_eq(	singleRomanToInt('D'), 500);
